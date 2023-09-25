@@ -30,6 +30,6 @@ pip install auto-py-to-exe
 ```
 ## Screenshots
 
-![App Screenshot](./scr/2.png)
-![App Screenshot](./scr/1.png)
+![App Screenshot](./scr-2.png)
+![App Screenshot](./scr-1.png)
 
